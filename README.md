@@ -29,7 +29,7 @@ There are more [examples of use cases here](src/test/resources/org/jenkinsci/plu
 
 Video showing an example usage:
 
-[![Generic Webhook Trigger Usage Example](https://img.youtube.com/vi/8mrJNkofxq4/0.jpg)](https://www.youtube.com/watch?v=8mrJNkofxq4)
+[![Generic Webhook Trigger Usage Example](https://img.youtube.com/vi/8mrJNkofxq4/0.jpg)](https://github.com/jenkinsci/generic-webhook-trigger-plugin/raw/refs/heads/master/release-with-tags.mp4)
 
 It can trigger on any webhook, like:
 
