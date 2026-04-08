@@ -174,7 +174,7 @@ If you need the resolved values in pre build steps, like git clone, you need to 
 
 ## Job DSL Plugin
 
-This plugin can be used with the Job DSL Plugin. There is also an example int he [Violation Comments to GitLab Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Violation+Comments+to+GitLab+Plugin) wiki page.
+This plugin can be used with the Job DSL Plugin. There is also an example in the [Violation Comments to GitLab Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Violation+Comments+to+GitLab+Plugin) wiki page.
 
 Job DSL supports injecting credenials when processing the DSL. You can use that if you want the `token` to be set from credentials.
 
