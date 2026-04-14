@@ -1,6 +1,6 @@
 # Generic Webhook Trigger Plugin
 
-[![Build Status](https://ci.jenkins.io/job/Plugins/job/generic-webhook-trigger-plugin/job/master/badge/icon)](https://ci.jenkins.io/job/Plugins/job/generic-webhook-trigger-plugin)
+[![Build Status](https://ci.jenkins.io/buildStatus/icon?job=Plugins%2Fgeneric-webhook-trigger-plugin%2Fmaster)](https://ci.jenkins.io/job/Plugins/job/generic-webhook-trigger-plugin/job/master/)
 
 This is a Jenkins plugin that can:
 
