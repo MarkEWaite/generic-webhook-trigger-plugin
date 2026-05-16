@@ -2,6 +2,39 @@
 
 Changelog of generic-webhook-trigger-plugin.
 
+## 2.4.2 (2026-05-16)
+
+### Bug Fixes
+
+-  Add UUID parameter to safe parameter names (#391) ([2ea6a](https://github.com/jenkinsci/generic-webhook-trigger-plugin/commit/2ea6aff419f16c0) Zbynek Konecny)  
+
+### Other changes
+
+**Merge pull request #390 from MarkEWaite/fix-embedded-build-status**
+
+* Adapt build status icon for ci.jenkins.io permissions change 
+
+[6fd9c](https://github.com/jenkinsci/generic-webhook-trigger-plugin/commit/6fd9c1fc1968482) Tomas Bjerre *2026-04-14 16:17:47*
+
+**Adapt build status icon for ci.jenkins.io permissions change**
+
+* Large language models and other readers were causing performance problems. 
+* The ci.jenkins.io controller has been reconfigured to limit access to 
+* authenticated users in order to prevent performance problems.  That change 
+* requires that we adjust the URL of the embeddable build status update URL. 
+* Testing done 
+* Validated the change in a sample repository 
+* Will check the pull request after it is submitted 
+
+[d811f](https://github.com/jenkinsci/generic-webhook-trigger-plugin/commit/d811f446ae74ac3) Mark Waite *2026-04-14 16:10:12*
+
+**Merge pull request #389 from vqlion/fix/readme-typo**
+
+* chore: typo in readme.md 
+
+[d9578](https://github.com/jenkinsci/generic-webhook-trigger-plugin/commit/d9578266e9c2075) Tomas Bjerre *2026-04-08 12:28:46*
+
+
 ## 2.4.1 (2025-08-13)
 
 ### Bug Fixes
